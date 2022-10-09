@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "train": "node train.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-nlp": "^4.24.0"
+  }
+}
